@@ -9,3 +9,40 @@ STAGE-1-->Youtube data harvesting and storing in MONGO DB
 -->use generated api key to retrieve those data into our project
 4]Store API key in any variable
 5] Request yt to share the details of particular video[pk-id]
+6]Datails going to scrap from yt:
+
+CHANNEL:
+-->Channel name
+-->Channel ID
+-->Subscribers count
+-->started on 
+-->Total views
+-->country
+-->yt link
+-->Description
+-->Playlist ID
+
+VideoDetails:
+-->Video_Id
+-->Video_Name
+-->Video_Description
+-->Tags
+-->PublishedAt
+-->View_Count
+-->Like_Count
+-->Comment_Count
+-->Duration
+-->Thumbnail
+-->Caption_Status
+
+Comments:
+-->Comment_Id
+-->Comment_Text
+-->Comment_Author
+-->Comment_PublishedAt
+
+
+       
+
+
+
